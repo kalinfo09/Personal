@@ -1,0 +1,40 @@
+.link {
+    color: #00ADB5;
+}
+
+.body {
+    color: #EEEEEE;
+    background-color: #222831;
+}
+
+#my_img {
+    border-radius: 50%;
+    height: 200px;
+}
+
+h1, h2 {
+    padding: 10px;
+    font-family: serif, 'Poppins', 'Montserrat';
+}
+
+p {
+    text-align: left;
+    font-family: sans-serif, 'Poppins', 'Montserrat';
+
+}
+
+.card-color {
+    background-color: #393E46;
+    color: #EEEEEE;
+    font-family: sans-serif, 'Poppins', 'Montserrat';
+
+}
+
+.button-color {
+    background-color: #00ADB5;
+}
+
+a > img {
+    height: 30px;
+    
+}
