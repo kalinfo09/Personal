@@ -30,11 +30,15 @@ p {
 
 }
 
-.button-color {
-    background-color: #00ADB5;
-}
-
 a > img {
     height: 30px;
     
+}
+
+.btn {
+  background-color: #00ADB5;
+  color: white;
+  padding: 10px 16px;
+  border-radius: 5px;
+  text-decoration: none;
 }
